@@ -113,8 +113,8 @@ If you want to use a different mapping, map your keys to the
 &lt;Plug&gt;(KeywordPlusOneComplete) mapping target _before_ sourcing the script (e.g.
 in your vimrc):
 
-    imap <C-x><C-w> <Plug>(KeywordPlusOneComplete)
-    vmap <C-x><C-w> <Plug>(KeywordPlusOneComplete)
+    imap <C-x><C-k> <Plug>(KeywordPlusOneComplete)
+    vmap <C-x><C-k> <Plug>(KeywordPlusOneComplete)
 
 CONTRIBUTING
 ------------------------------------------------------------------------------
