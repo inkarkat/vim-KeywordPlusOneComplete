@@ -1,0 +1,11 @@
+Use "**quick**" for access or "**quiet**" (or '**quit**' or ',,quit,,,').
+--/slashed/here/--not\backslashed\there\--
+"	call(my-script-31337-path-and-name-without-extension-11=%~dpn0) here
+" [prefixed:this:crazy:name] or (prefixed:underscore:code:name), but not [underscore:code:negative] neither [[prefixed:bad:code:name]].
+run[FindMatchesInCurrentWindow(match, option)]
+run[FindMatchesInOtherWindows(matches, options)]
+app --quit-if-one-screen --quit-for-special-handling --include=foo --exclude=bar
+	--quiet-errors
+	--quiet-info	--quiet-stuff
+
+ship-me@marmelade@moose-berry wait:me&mel&all&we;here said#me%most%marvelous%mashup=sus
